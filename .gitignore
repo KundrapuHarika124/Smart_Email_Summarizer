@@ -1,1 +1,4 @@
-email_summarizer/auth/credentials.json
+auth/credentials.json
+auth/token.pickle
+__pycache__/
+*.pyc
